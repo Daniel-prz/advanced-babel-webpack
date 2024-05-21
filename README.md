@@ -6,3 +6,4 @@ I installed webpack and babel dependencies, using babel-loader to bundle Javascr
 Configured webpack.config to production mode for tree shaking  
 Verify dynamic imports by testing out button in browser  
 Button should generate text 'Hello' on webpage  
+Unused code should be excluded from bundled 909.main.js file
